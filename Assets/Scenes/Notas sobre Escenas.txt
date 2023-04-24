@@ -1,0 +1,50 @@
+Escena 1. Habitación de Alex
+	Coordura 8
+
+	Opción 1 -> Escena 2 
+	Opción 2 -> Escena 2
+	Opción 3 -> Escena 5 (final)
+
+Escena 2. Cocina de su casa
+	Coordura --
+	-> Escena 3
+
+Escena 3. Calle (anochecer)
+	Opción 1 -> Escena 4 o 5
+		Coordura --
+	Opción 2 -> Escena 4 o 5
+
+Escena 4. Exterior de la fiesta (novia)
+	Coordura --
+	Opción 1 -> Escena 6
+		Coordura -2
+	Opción 2 -> Escena 6
+		Coordura --
+
+Escena 5. Exterior de la fiesta (amigos)
+	Coordura --
+	Opción 1 -> Escena 6
+		Coordura -2
+	Opción 2 -> Escena 6
+		Coordura --
+
+Escena 6. Interior de la fiesta
+	Única opción ->
+		Coordura --
+	
+	Opción 1 -> Escena 7
+		Coordura --
+	Opción 2 -> Escena 8
+		Coordura +3
+
+Escena 7. Exterior de la fiesta/Calle oscura
+
+Escena 8. Exterior de la fiesta
+	
+
+
+NOTAS DE COORDURA
+Máxima: 8
+Mínima: 1
+Máxima durante gp: 7
+		 
