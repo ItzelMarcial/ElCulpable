@@ -5,6 +5,7 @@ using UnityEditor;
 using System.IO;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class ReadingText : MonoBehaviour
 {
@@ -19,7 +20,13 @@ public class ReadingText : MonoBehaviour
 
     public Button opcion1;
     public Button opcion2;
+    public Button opcion3;
+
+   
+
     
+    //public int Scene;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -27,9 +34,21 @@ public class ReadingText : MonoBehaviour
         txt_dialogo.text = "";
 
         //desactivamos los botones
-        opcion1.gameObject.SetActive(false); 
-        opcion2.gameObject.SetActive(false);
+        
 
+        Scene scene = SceneManager.GetActiveScene();
+        Debug.Log("Active Scene is '" + scene.name + "'.");
+        opcion1.gameObject.SetActive(false);
+        opcion2.gameObject.SetActive(false);
+       
+        if (scene.name == "Escena 1") //Este es porque sólo en la primera escena hay 3 opciones
+        {
+            opcion3.gameObject.SetActive(false);
+        }
+        else
+        {
+            Object.Destroy(opcion3);
+        }
         ReadFromTheFile();
     }
 
@@ -50,13 +69,25 @@ public class ReadingText : MonoBehaviour
     {
         Debug.Log(linepos);
         Debug.Log(linesArray.Length);
-
-        if(linepos >= linesArray.Length)
+        Scene scene = SceneManager.GetActiveScene();
+        if (linepos >= linesArray.Length)
         {
             //si ya acabó el diálogo, hay que llamar al menú de opciones
-            opcion1.gameObject.SetActive(true);
-            opcion2.gameObject.SetActive(true);
 
+            if ((scene.name != "Escena 2.1")) //Con este if evitamos que aparezcan los botones en los finales uwu
+            {
+                opcion1.gameObject.SetActive(true);
+                opcion2.gameObject.SetActive(true);
+            }
+            if (scene.name == "Escena 1") //Este es porque sólo en la primera escena hay 3 opciones
+            {
+                opcion3.gameObject.SetActive(true);
+            }   
+            else
+            {
+                //No hace nada gg
+            }
+            
             return;
         }
         else

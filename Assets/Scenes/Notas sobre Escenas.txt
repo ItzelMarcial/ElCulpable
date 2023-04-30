@@ -1,50 +1,94 @@
 Escena 1. Habitación de Alex
-	Coordura 8
-
-	Opción 1 -> Escena 2 
-	Opción 2 -> Escena 2
-	Opción 3 -> Escena 5 (final)
-
-Escena 2. Cocina de su casa
-	Coordura --
-	-> Escena 3
-
-Escena 3. Calle (anochecer)
-	Opción 1 -> Escena 4 o 5
-		Coordura --
-	Opción 2 -> Escena 4 o 5
-
-Escena 4. Exterior de la fiesta (novia)
-	Coordura --
-	Opción 1 -> Escena 6
-		Coordura -2
-	Opción 2 -> Escena 6
-		Coordura --
-
-Escena 5. Exterior de la fiesta (amigos)
-	Coordura --
-	Opción 1 -> Escena 6
-		Coordura -2
-	Opción 2 -> Escena 6
-		Coordura --
-
-Escena 6. Interior de la fiesta
-	Única opción ->
-		Coordura --
-	
-	Opción 1 -> Escena 7
-		Coordura --
-	Opción 2 -> Escena 8
-		Coordura +3
-
-Escena 7. Exterior de la fiesta/Calle oscura
-
-Escena 8. Exterior de la fiesta
 	
 
+		Opción 1 -> Escena 2(novia)
+		Opción 2 -> Escena 2(amigos)
+		Opción 3 -> Escena 2.1 (final)
 
-NOTAS DE COORDURA
-Máxima: 8
-Mínima: 1
-Máxima durante gp: 7
+Escena 2. Cuarto(Escoger ropa)
+		
+		Opción 1 -> Escena 3(camisa)
+		Opción 2 -> Escena 3.1(vestido)
+
+Escena 2.1. Cuarto(Se queda en casa FINAL)
+
+   
+Escena 3. Cocina de su casa(crítica de su mamá por camisa)
+	
+	    -> Escena 4
+		
+Escena 3.1. Cocina de su casa(crítica de su pamá por vestido)
+	
+	    -> Escena 4
+
+Escena 4. Calle (anochecer, llamada de novia)
+
+		Opción 1 -> Escena 5 (contesta)
+		
+		Opción 2 -> Escena 5.1 (no contesta)
+
+
+Escena 5. Calle (anochecer, casi choque de Alex)
+
+		-> Escena 6
+
+Escena 5.1. Calle (atardecer, camino normal)
+
+		-> Escena 6
+
+Escena 6. Exterior de la fiesta (con quién va?)
+	
+		Opción 1 -> Escena 7 (novia)
+		
+		Opción 2 -> Escena 7.1 (amigos)
+		
+
+Escena 7. Interior de la fiesta (novia reclama)
+	
+			-> Escena 8
+		
+Escena 7.1. Interior de la fiesta (amigos se burlan)
+	
+			-> Escena 8	
+
+Escena 8. Interior de la fiesta (discusión con novia)
+
+		Opción 1 -> Escena 9 (Alex agresivo)
+		
+		Opción 2 -> Escena 9.1 (Alex calmao)
+
+
+Escena 9. Interior de la fiesta (Alex agresivo)
+
+		 -> Escena 10 
+
+Escena 9.1. Interior de la fiesta (Alex calmao)
+
+		 -> Escena 10 
+
+Escena 10. Interior de la fiesta (Sofía se va, amigos lo aconsejan)
+
+		Opción 1 -> Escena 11 (Alex persigue a Sofía)
+		
+		Opción 2 -> Escena 11.1 (Alex deja ir a Sofía)
+
+Escena 11. Interior de la fiesta (Alex monta su show)
+
+		 -> Escena 12
+
+Escena 11.1. Interior de la fiesta (Alex achicopalao)		
+
+		-> Escena 12
+
+Escena 12. Interior de la fiesta (Juan le ofrece drogas)
+		
+		Opción 1 -> Escena 13 (Alex acepta)
+		
+		Opción 2 -> Escena 13.1 (Alex no acepta)
+
+Escena 13. Int/Ext de la fiesta/Noche (Alex todo drogado se va en su auto-FINAL)
+
+Escena 13.1. Exterior de la fiesta/Noche (Alex se va, Ernesto ofrece aiuda-FINAL)
+
+
 		 

@@ -534,7 +534,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 5cced2a1f8e623f42b931714738cbd57, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2fd3f6a1d9bcf104188a0b11cf2d23c8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1146,7 +1146,7 @@ GameObject:
   - component: {fileID: 1596464660}
   - component: {fileID: 1596464659}
   m_Layer: 5
-  m_Name: Novia
+  m_Name: Camisa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1192,7 +1192,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Contestar: Novia'
+  m_text: "Con camisa y pantal\xF3n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1428,7 +1428,7 @@ GameObject:
   - component: {fileID: 1767533958}
   - component: {fileID: 1767533957}
   m_Layer: 5
-  m_Name: Amigos
+  m_Name: Vestido
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1474,7 +1474,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Contestar: Amigos'
+  m_text: 'Con un vestiido
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1586,7 +1588,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 200, y: 0}
+  m_AnchoredPosition: {x: 905, y: -127}
   m_SizeDelta: {x: 469.2752, y: 434.2344}
   m_Pivot: {x: 0, y: 0}
 --- !u!114 &1809029827
@@ -1609,7 +1611,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7edb45fa39c6bf544a2dd01cd0568073, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5fa9ea3873db5b2458e3be5614dded51, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1747,7 +1749,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9ff64968738870488afd48bd875984a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: b98a99aaa75668c47afe12907fb6ba02, type: 3}
+  textFile: {fileID: 4900000, guid: 524822b79cdc4a546bb69ff16f189399, type: 3}
   txt_dialogo: {fileID: 1357260050}
   opcion1: {fileID: 1285640308}
   opcion2: {fileID: 505285710}
+  opcion3: {fileID: 0}
