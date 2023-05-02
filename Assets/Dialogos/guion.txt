@@ -1,0 +1,281 @@
+Imperceptible
+
+Tu nombre es Alex, estás tranquilamente recostado en cama cuando el sonido del telefono te hace poner una cara de preocupación, son mensajes de tus amigos y de tu novia para ir a una fiesta
+
+Opción a: Responder a tu novia.
+Opción b: Responder a tus amigos.
+Opción c: No respondes a ninguno.
+
+ALEX
+Para que me molesto, no tengo ganas de salir hoy, mejor solo les aviso que nos vemos la próxima
+
+FUNDE A NEGRO – FINAL NEUTRO B
+
+Buscas en tu armario y sacas dos outfit
+
+Opción a: Outfit Relajado con Jeans
+
+Tu madre te detiene
+
+Doña Hortensia
+¿A dónde vas hijo? ¿Vas a salir?
+
+ALEX
+Voy a salir con mi novia, vamos a una fiesta, vuelvo en un rato no te preocupes.
+
+Doña Hortensia
+¿Y te vas a ir así? ¿no tienes algo más decente que ponerte?, esa ropa está toda
+sucia y arrugada.
+
+Don Felipe
+Déjalo mujer, así se ve bien, no lo molestes.
+
+Opción b: Outfit extravagante con Falda
+
+Tu padre te detiene
+
+DON FELIPE
+¿A dónde vas y qué demonios traes puesto? ¿Vas a salir con esa cosa?, pareces
+vieja.
+
+ALEX
+Vamos a una fiesta.
+
+DON FELIPE
+Tú no te vas con eso, te me cambias ahorita, mi hijo no es una nena, pórtate como un
+hombre.
+
+DOÑA HORTENSIA
+Ay ya déjalo, no tiene nada de malo y es su vida, aprende a respetar sus rarezas.
+
+En ambos casos:
+
+Bajas la cabeza en silencio dejando discutiendo a tus padres y te vas a la fiesta.
+
+Te subes a tu auto y te pones en marcha *Sonido de auto encendiéndose* 
+En el camino por las calles oscuras escuchas múltiples veces el llamadas de tu celular, observas la barra de notificaciones y tu novia te ha marcado 20 veces.
+*sonido de llamada*
+
+Opción a: Apresurarse a contestar
+
+ALEX
+Disculpa, es que voy manejando…
+
+ANA SOFÍA
+¡No me importa, solo apurate ya!
+
+Un carro se te atraviesa y frenas de golpe, le cuelgas a tu novia y continuas manejando en
+silencio.
+
+Opción b: Ignorar llamadas 
+
+ALEX
+Ahora no es el momento, al llegar le explicaré
+
+Conduces sin distracciones a la fiesta.
+
+En ambos casos:
+
+Has llegado a la fiesta
+*sonido de coche apagándose*
+
+Opción a: Buscar a Ana Sofi
+*Sonido de música de fiesta*
+*Murmullos de gente que está en la fiesta*
+
+Al fin la encuentras, está enojada.
+*Sonido de gruñido de Ana Sofi*
+
+ANA SOFIA
+¿¡Dónde estabas!? 
+
+ALEX
+Vine lo más rápido que pude, es que yo...
+
+ANA SOFIA
+¿Venías de rodillas o qué? ¿y qué cosa traes puesta?, ósea, no me malentiendas, se
+te ve bien, pero… bueno, ya no importa, ven, vamos a bailar.
+
+Ana Sofía te toma agresivamente la mano intentando llevarte a la pista de
+baile, la detienes 
+
+ALEX
+No quiero bailar, no tengo ganas de nada, sólo quiero hablar.
+
+ANA SOFIA
+Nunca tienes ganas de nada, nunca quieres nada ¿acaso no te importo?, ¿ya no me
+quieres?
+
+Opción b: Ir con amigos
+Entras buscando a tus amigos, ellos desde el fondo te hacen
+señas en una mesa, vas hacía ellos.
+*Sonido de música de fiesta*
+*Murmullos de gente que está en la fiesta*
+
+ALEX
+Qué onda, ¿Qué cuentan?
+
+JUAN
+Hey, ¿Dónde anda tu dueña?, porque tu sin permiso no sales.
+
+ALBERTO
+Oye, no tienes buena cara ¿estás bien?
+
+JUAN
+Lo que necesitas es una buena botella y un par de chicas para que se te olvide.
+
+ALBERTO
+Pues unas cheves no te harían mal, ¿jalas o qué?
+
+ERNESTO
+Ay ándale, estamos en una fiesta no en un velorio.
+
+Aceptas, tomas una botella de cerveza
+
+JUAN
+Bueno ya que andamos en el tema, la verdad es que tu novia nunca me cayó bien.
+
+ERNESTO
+Sí, creo que a veces se pasa de tóxica, no te deja ni salir a la esquina sin traerte bien
+vigilado.
+
+ALEX
+Bueno ya, si vine con ustedes es para tener un poco de tranquilidad ¿Qué no se
+puede?
+
+Tu grupo de amigos se miran entre ellos y solo suspiran.
+
+ALBERTO
+Bueno ya, está bien, cambiemos el tema
+
+JUAN
+Si, mejor hablemos de esa cosa que traes puesta, ¿De dónde sacaste eso? 
+
+Miras indignado a Juan hasta que una voz detrás te llama enojada, volteas y es
+tu novia furiosa, te toma del brazo violentamente.
+*Gruñidos de enojo de Ana Sofia”
+
+ANA SOFIA
+Ah mira qué bonito, a mí ni me pelas, pero si te vas con tus amigos los
+delincuentes estos, ¿acaso no te importo?, ¿ya no me quieres?
+
+En ambos casos se inicia una discusión entre Alex y su Novia
+
+Opción a: Respondes agresivo
+
+ALEX
+¿Por qué todo tiene que complicarse siempre?, contigo solo es pelear y pelear,
+cuando te pones así no te soporto.
+
+ANA SOFIA
+Nada más piensas en ti.
+
+ALEX
+Ya estoy harto, siempre cambias todo a tu favor, te odio, estás loca.
+
+Opción b: Respondes calmado
+
+ALEX
+No es eso, sabes que te amo, pero yo...
+
+ANA SOFIA
+¿Pero qué?,¿tú qué?, todo es sobre ti, eres un egoísta, siempre tú y nada más.
+
+ALEX
+Tienes razón, todo es mi culpa, por favor perdóname, te prometo que no lo vuelvo a
+hacer.
+
+En ambos casos:
+Te quedas en silencio
+Ana Sofia suelta tu mano y sale corriendo enojada
+Un chico la abraza y consuela, después los ves irse juntos
+
+Buscas a tus amigos y te sientas con ellos.
+
+ERNESTO
+No te preocupes, esas cosas pasan… no es tu culpa.
+
+ALBERTO
+Si, además qué onda con tu chica, la relación es de dos, nunca te he visto realmente
+feliz a su lado. Está bien dejar ir si no eres feliz.
+
+Opción a: Finges que nada pasó 
+Tomas una cerveza de golpe y te vas enojado decidido a buscar a tu
+novia e ignorando a tus amigos.
+Al verla abrazada a otro chico tiras la botella de vidrio
+al suelo.
+*Sonido de botella rompiéndose¨
+
+ALEX
+Ah, ¿entonces ya encontraste a otro? ¿Así de fácil me cambias?
+
+ANA SOFIA
+¿Qué no te quedó claro?, ¡ya no te me acerques!
+
+ALEX
+Sofía yo te amo, si me dejas no sé qué va a ser de mí y ni creas que alguien te va a
+querer como yo
+
+ANA SOFIA
+Ya déjame, si no te quedó claro te lo repito, no me vuelvas a buscar, esto se termina
+aquí.
+
+Le jalas la mano a Ana Sofia pero ella se aleja, el chico a su lado se coloca en frente
+de ella y te vas enojado con tus amigos.
+
+Opción b: Hablar del tema 
+
+ALEX
+Saben chicos, no había tenido claro las cosas, pero tienen razón.
+
+ALBERTO
+¿A qué te refieres?
+
+ALEX
+No debería ser sólo mi culpa, la razón por la que la re-lación este yendo al traste,
+suena estúpido decirlo en voz alta, pero quizás no he sido muy listo últimamente.
+
+ERNESTO
+Wey, no todos los somos, aparte creo que igual es un buen camino reconocer eso.
+
+ALBERTO
+Las peores luchas no deben hacerse solos, como Ernesto y yo, luego nos carga un
+poco la fregada, pero no por eso dejamos de estar ahí presentes.
+
+ALEX
+Tomaré su palabra
+
+////
+
+JUAN
+Ay, no importa, mira para que se te pase ¿no quieres fumar un poquito?
+
+Juan te ofrece un papel enrollado acercandolo a tu rostro con insistencia.
+
+Opción a: Aceptas
+
+ALEX
+Bueno, total ya no me importa nada.
+
+Comienzas a fumar y un rato después te separas de tus amigos.
+
+Sales de la fiesta y te subes a tu auto, estás muy triste.
+*Sonido de impacto de auto*
+
+FUNDE A NEGRO – FINAL MALO
+
+opción b: No aceptas
+
+Sales cansado de la casa a tu auto pero Ernesto te alcanza.
+
+ERNESTO
+Sabes amigo, se me olvidó darte algo, que creo que puede serte de ayuda.
+
+Ernesto te da una pequeña nota con un “cheems” diciendo: “Sim remquierems
+ayumdam, consumltam aml simguientem nú-merom” xx-xxx-xxx-xx
+
+Se te escapa una sonrisa y te despides de Ernesto
+Entras en el auto y te vas mas calmado.
+*Sonido de auto acelerando*
+*Sonido de música feliz*
+FUNDE EN NEGRO – FINAL BUENO
