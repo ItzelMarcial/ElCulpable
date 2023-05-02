@@ -24,18 +24,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Escena 2.1.unity
     guid: 7c492aa644ed68249b6e0d02b22703b6
   - enabled: 1
-    path: Assets/Scenes/Escena 4.unity
-    guid: 85661b4e61d017147869d0cb863d87b4
-  - enabled: 1
-    path: Assets/Scenes/Escena 5.unity
-    guid: e15dd2bf8242a3b49bc0a614c79b9899
-  - enabled: 1
-    path: Assets/Scenes/Escena 6.unity
-    guid: 11f75f4ac03e3e4419c947f782f38699
-  - enabled: 1
-    path: Assets/Scenes/Escena 7.unity
-    guid: d6db9f97754e4884ca596f4497b96ced
-  - enabled: 1
-    path: Assets/Scenes/Escena 8.unity
-    guid: 948397228fbe88d4d98d31198caf72fc
+    path: Assets/Scenes/Escena 3.unity
+    guid: 2330cc202b9e23a48a2731e7b36b0cfb
   m_configObjects: {}
