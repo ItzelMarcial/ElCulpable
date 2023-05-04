@@ -1200,6 +1200,8 @@ GameObject:
   - component: {fileID: 1163455297}
   - component: {fileID: 1163455299}
   - component: {fileID: 1163455298}
+  - component: {fileID: 1163455300}
+  - component: {fileID: 1163455301}
   m_Layer: 5
   m_Name: Personaje(Alex)
   m_TagString: Untagged
@@ -1224,7 +1226,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -493, y: -209.5}
+  m_AnchoredPosition: {x: -493, y: -359}
   m_SizeDelta: {x: 1000, y: 1000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1163455298
@@ -1247,7 +1249,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a21a8ed74d6813d47b61e8c40dad561e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 88275e2bed04b57438495d437e01276b, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -1265,6 +1267,38 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1163455296}
   m_CullTransparentMesh: 1
+--- !u!95 &1163455300
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1163455296}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 400f8ffef180f9d49b3fadb55b011af1, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &1163455301
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1163455296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2aacfaa5741804582d317bfff14c8d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1176674655
 GameObject:
   m_ObjectHideFlags: 0
@@ -2304,3 +2338,4 @@ MonoBehaviour:
   opcion2: {fileID: 505285710}
   opcion3: {fileID: 1176674657}
   canvas: {fileID: 1954314546}
+  Alex: {fileID: 1163455300}

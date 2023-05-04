@@ -7,11 +7,13 @@ public class GameController : MonoBehaviour
 {
 
     public static GameController Instancia;
+    
 
     // Start is called before the first frame update
     void Start()
     {
         Instancia = this;
+        
     }
 
     public void CambiarAEscena(int numeroEscena)

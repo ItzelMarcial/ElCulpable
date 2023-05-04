@@ -14,6 +14,7 @@ public class ReadingText : MonoBehaviour
     string[] linesArray;
     
     int linepos = 0;
+    
 
     //elementos en la UI
     [SerializeField] TextMeshProUGUI txt_dialogo;
@@ -24,12 +25,15 @@ public class ReadingText : MonoBehaviour
 
     public Canvas canvas;
 
-    
+    public Animator Alex;
+
     //public int Scene;
 
     // Start is called before the first frame update
     void Start()
     {
+
+        
         //borramos cualquier texto que pueda haber en pantalla
         txt_dialogo.text = "";
 
@@ -50,7 +54,10 @@ public class ReadingText : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(linepos >= 2)
+        {
+            Alex.SetTrigger("CAMBIOCARA");
+        }
     }
 
     void ReadFromTheFile()
@@ -59,9 +66,12 @@ public class ReadingText : MonoBehaviour
         linesArray = textFile.text.Split("\n");
     }
 
+    
+
     //este método se llama desde el botón cuando es presionado
     public void DisplayText()
     {
+        
         Debug.Log(linepos);
         Debug.Log(linesArray.Length);
         Scene scene = SceneManager.GetActiveScene();
@@ -114,6 +124,7 @@ public class ReadingText : MonoBehaviour
 
             txt_dialogo.text += linesArray[linepos] + "\n";
             linepos++;
+            return;
         }
     }
 }
