@@ -22,7 +22,7 @@ public class ReadingText : MonoBehaviour
     public Button opcion2;
     public Button opcion3;
 
-   
+    public Canvas canvas;
 
     
     //public int Scene;
@@ -34,21 +34,16 @@ public class ReadingText : MonoBehaviour
         txt_dialogo.text = "";
 
         //desactivamos los botones
-        
+
+        string tag = canvas.tag;
 
         Scene scene = SceneManager.GetActiveScene();
         Debug.Log("Active Scene is '" + scene.name + "'.");
         opcion1.gameObject.SetActive(false);
         opcion2.gameObject.SetActive(false);
-       
-        if (scene.name == "Escena 1") //Este es porque sólo en la primera escena hay 3 opciones
-        {
-            opcion3.gameObject.SetActive(false);
-        }
-        else
-        {
-            Object.Destroy(opcion3);
-        }
+        opcion3.gameObject.SetActive(false);
+        
+        
         ReadFromTheFile();
     }
 
@@ -73,12 +68,35 @@ public class ReadingText : MonoBehaviour
         if (linepos >= linesArray.Length)
         {
             //si ya acabó el diálogo, hay que llamar al menú de opciones
+            if (canvas.tag == "OneOption") //Este es para escenas que no tienen opciones y saltan a otra
+            {
+                opcion3.gameObject.SetActive(true); 
+            }
+            if (canvas.tag == "TwoOption") //Este es para escenas que necesiten 2 opciones
+            {
+                opcion1.gameObject.SetActive(true);
 
-            if ((scene.name != "Escena 2.1")) //Con este if evitamos que aparezcan los botones en los finales uwu
+                opcion2.gameObject.SetActive(true);
+            }
+            
+            if (scene.name == "Escena 1") //Este es porque sólo en la primera escena hay 3 opciones
             {
                 opcion1.gameObject.SetActive(true);
                 opcion2.gameObject.SetActive(true);
+                opcion3.gameObject.SetActive(true);
             }
+
+
+            /*if ((scene.name != "Escena 2.1")) //Con este if evitamos que aparezcan los botones en los finales uwu
+            {
+                opcion1.gameObject.SetActive(true);
+                
+                opcion2.gameObject.SetActive(true);
+
+               
+
+            }
+
             if (scene.name == "Escena 1") //Este es porque sólo en la primera escena hay 3 opciones
             {
                 opcion3.gameObject.SetActive(true);
@@ -86,8 +104,8 @@ public class ReadingText : MonoBehaviour
             else
             {
                 //No hace nada gg
-            }
-            
+            }*/
+
             return;
         }
         else
