@@ -13,7 +13,7 @@ public class ReadingText : MonoBehaviour
     public TextAsset textFile;     // drop your file here in inspector
     string[] linesArray;
     
-    int linepos = 0;
+    public int linepos = 0;
     
 
     //elementos en la UI
@@ -26,14 +26,15 @@ public class ReadingText : MonoBehaviour
     public Canvas canvas;
 
     public Animator Alex;
+    public Animator DoñaHortensia;
+    public Animator DonFelipe;
 
-    //public int Scene;
+    
 
     // Start is called before the first frame update
     void Start()
     {
 
-        
         //borramos cualquier texto que pueda haber en pantalla
         txt_dialogo.text = "";
 
@@ -54,9 +55,17 @@ public class ReadingText : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(linepos >= 2)
+        Scene scene = SceneManager.GetActiveScene();
+
+        if(scene.name == "Escena 1")
         {
-            Alex.SetTrigger("CAMBIOCARA");
+            Alex.SetInteger("LINEAPOS01", linepos);
+        }
+        if(scene.name == "Escena 3")
+        {
+            Alex.SetInteger("LINEAPOS03", linepos);
+            DoñaHortensia.SetInteger("LINEAPOS03", linepos);
+            DonFelipe.SetInteger("LINEAPOS03", linepos);
         }
     }
 
@@ -124,7 +133,12 @@ public class ReadingText : MonoBehaviour
 
             txt_dialogo.text += linesArray[linepos] + "\n";
             linepos++;
+            
             return;
         }
+    }
+    public int MandarNumeroLinea()
+    {
+        return linepos;
     }
 }

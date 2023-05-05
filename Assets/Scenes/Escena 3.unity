@@ -190,7 +190,7 @@ MonoBehaviour:
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 1}
     m_DisabledColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0.5019608}
     m_ColorMultiplier: 1
-    m_FadeDuration: 0.1
+    m_FadeDuration: 1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
     m_PressedSprite: {fileID: 0}
@@ -563,6 +563,7 @@ GameObject:
   - component: {fileID: 460326445}
   - component: {fileID: 460326447}
   - component: {fileID: 460326446}
+  - component: {fileID: 460326448}
   m_Layer: 5
   m_Name: Personaje(Hortensia)
   m_TagString: Untagged
@@ -628,6 +629,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 460326444}
   m_CullTransparentMesh: 1
+--- !u!95 &460326448
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 460326444}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 633114777d5c28b44846f7dbb0ed873b, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &505285708
 GameObject:
   m_ObjectHideFlags: 0
@@ -1368,6 +1389,7 @@ GameObject:
   - component: {fileID: 1481091164}
   - component: {fileID: 1481091166}
   - component: {fileID: 1481091165}
+  - component: {fileID: 1481091167}
   m_Layer: 5
   m_Name: Personaje(Don Felipe)
   m_TagString: Untagged
@@ -1433,6 +1455,26 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1481091163}
   m_CullTransparentMesh: 1
+--- !u!95 &1481091167
+Animator:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1481091163}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 932bb6fb060746f44a4ceb83dff2caf9, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
 --- !u!1 &1596464657
 GameObject:
   m_ObjectHideFlags: 0
@@ -1985,7 +2027,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: cad62d72974c7cd4398dab039a28b5e4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 19d2666f5a31f544d847f2c2680d7450, type: 3}
   m_Type: 0
   m_PreserveAspect: 1
   m_FillCenter: 1
@@ -2147,12 +2189,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textFile: {fileID: 4900000, guid: 2417ba18d9bce0948aa447b38537555e, type: 3}
+  linepos: 0
   txt_dialogo: {fileID: 1357260050}
   opcion1: {fileID: 1285640308}
   opcion2: {fileID: 505285710}
   opcion3: {fileID: 760732433}
   canvas: {fileID: 1954314546}
   Alex: {fileID: 1809029829}
+  "Do\xF1aHortensia": {fileID: 460326448}
+  DonFelipe: {fileID: 1481091167}
 --- !u!1 &2058958819
 GameObject:
   m_ObjectHideFlags: 0
