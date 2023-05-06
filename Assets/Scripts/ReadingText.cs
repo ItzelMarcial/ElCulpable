@@ -67,6 +67,12 @@ public class ReadingText : MonoBehaviour
             DoñaHortensia.SetInteger("LINEAPOS03", linepos);
             DonFelipe.SetInteger("LINEAPOS03", linepos);
         }
+        if (scene.name == "Escena 3.1")
+        {
+            Alex.SetInteger("LINEAPOS03.1", linepos);
+            DoñaHortensia.SetInteger("LINEAPOS03.1", linepos);
+            DonFelipe.SetInteger("LINEAPOS03.1", linepos);
+        }
     }
 
     void ReadFromTheFile()
