@@ -1054,6 +1054,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6320380895299778263, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 32e81f0488af0d341885675aec81e466, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
 --- !u!224 &1274864214 stripped
@@ -1406,7 +1410,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 20
+          m_IntArgument: 14
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1766,7 +1770,7 @@ GameObject:
   - component: {fileID: 2114828072}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: OneOption
+  m_TagString: TwoOption
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1783,7 +1787,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9ff64968738870488afd48bd875984a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: 539b30d0c53fb3b448334aa8232a0823, type: 3}
+  textFile: {fileID: 4900000, guid: b4a6bbb8b5a32714e95bfcbcb71a94bd, type: 3}
   linepos: 0
   txt_dialogo: {fileID: 382047062}
   opcion1: {fileID: 114906514}

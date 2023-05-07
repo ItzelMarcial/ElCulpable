@@ -193,7 +193,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 16
+          m_IntArgument: 13
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -592,7 +592,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4146839611640628432, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4146839611640628432, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
       propertyPath: m_TagString
@@ -682,10 +682,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4146839611640628434, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 54b23aab0f4b9ff438a81ad7d717c393, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
 --- !u!224 &786909143 stripped
@@ -1054,6 +1050,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6320380895299778263, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 32e81f0488af0d341885675aec81e466, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
 --- !u!224 &1274864214 stripped
@@ -1259,7 +1259,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pensar las cosas
+  m_text: Tratar de calmarse
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
   m_sharedMaterial: {fileID: 2140474, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
@@ -1406,7 +1406,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 20
+          m_IntArgument: 13
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1528,7 +1528,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Ir tras ella (insistir)
+  m_text: Defenderte (agresivo)
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
   m_sharedMaterial: {fileID: 2140474, guid: 8a89fa14b10d46a99122fd4f73fca9a2, type: 2}
@@ -1675,7 +1675,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 17
+          m_IntArgument: 14
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1766,7 +1766,7 @@ GameObject:
   - component: {fileID: 2114828072}
   m_Layer: 5
   m_Name: Canvas
-  m_TagString: OneOption
+  m_TagString: TwoOption
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1783,7 +1783,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9ff64968738870488afd48bd875984a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: 539b30d0c53fb3b448334aa8232a0823, type: 3}
+  textFile: {fileID: 4900000, guid: d1fd87d5aba6e844d8127e918d10bab4, type: 3}
   linepos: 0
   txt_dialogo: {fileID: 382047062}
   opcion1: {fileID: 114906514}
@@ -1909,10 +1909,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 2038421872961103950, guid: 67c424423534314489244ac9a7bdbfeb, type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: 9d37d1f4798f5a5419d2fb0da031cdb1, type: 3}
     - target: {fileID: 2038421872961103951, guid: 67c424423534314489244ac9a7bdbfeb, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
