@@ -26,8 +26,8 @@ public class ReadingText : MonoBehaviour
     public Canvas canvas;
 
     public Animator Alex;
-    public Animator DoñaHortensia;
-    public Animator DonFelipe;
+    public Animator Personaje_Izquierda;
+    public Animator Personaje_Derecha;
 
     
 
@@ -64,14 +64,14 @@ public class ReadingText : MonoBehaviour
         if(scene.name == "Escena 3")
         {
             Alex.SetInteger("LINEAPOS03", linepos);
-            DoñaHortensia.SetInteger("LINEAPOS03", linepos);
-            DonFelipe.SetInteger("LINEAPOS03", linepos);
+            Personaje_Izquierda.SetInteger("LINEAPOS03", linepos);
+            Personaje_Derecha.SetInteger("LINEAPOS03", linepos);
         }
         if (scene.name == "Escena 3.1")
         {
             Alex.SetInteger("LINEAPOS03.1", linepos);
-            DoñaHortensia.SetInteger("LINEAPOS03.1", linepos);
-            DonFelipe.SetInteger("LINEAPOS03.1", linepos);
+            Personaje_Izquierda.SetInteger("LINEAPOS03.1", linepos);
+            Personaje_Derecha.SetInteger("LINEAPOS03.1", linepos);
         }
     }
 
@@ -86,9 +86,8 @@ public class ReadingText : MonoBehaviour
     //este método se llama desde el botón cuando es presionado
     public void DisplayText()
     {
-        
-        Debug.Log(linepos);
-        Debug.Log(linesArray.Length);
+        //Debug.Log(linepos);
+        //Debug.Log(linesArray.Length);
         Scene scene = SceneManager.GetActiveScene();
         if (linepos >= linesArray.Length)
         {
@@ -100,7 +99,6 @@ public class ReadingText : MonoBehaviour
             if (canvas.tag == "TwoOption") //Este es para escenas que necesiten 2 opciones
             {
                 opcion1.gameObject.SetActive(true);
-
                 opcion2.gameObject.SetActive(true);
             }
             
@@ -115,11 +113,7 @@ public class ReadingText : MonoBehaviour
             /*if ((scene.name != "Escena 2.1")) //Con este if evitamos que aparezcan los botones en los finales uwu
             {
                 opcion1.gameObject.SetActive(true);
-                
                 opcion2.gameObject.SetActive(true);
-
-               
-
             }
 
             if (scene.name == "Escena 1") //Este es porque sólo en la primera escena hay 3 opciones
