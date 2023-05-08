@@ -1051,6 +1051,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6320380895299778263, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 88275e2bed04b57438495d437e01276b, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
 --- !u!224 &1274864214 stripped
@@ -1403,7 +1407,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 15
+          m_IntArgument: 31
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1780,7 +1784,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9ff64968738870488afd48bd875984a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textFile: {fileID: 4900000, guid: c38bb0d81d586ae4b98b63a9871d480c, type: 3}
+  textFile: {fileID: 4900000, guid: 893e02c686dbccc489270fd06e49e8ed, type: 3}
   linepos: 0
   txt_dialogo: {fileID: 382047062}
   opcion1: {fileID: 114906514}

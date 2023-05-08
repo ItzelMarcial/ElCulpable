@@ -27,8 +27,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Ir con novia/Pantalon/Escena 3.unity
     guid: f34207c85dc2de54bafc4ba3e50f3cb7
   - enabled: 1
-    path: Assets/Scenes/Ir con novia/Vestido/Escena 3.1.unity
-    guid: 0c6289434d500e54e8cdd5bc30b31ec9
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 3V.unity
+    guid: 0dba0a8d25ee6fa40b3f1d434b9ca6db
   - enabled: 1
     path: Assets/Scenes/Ir con novia/Pantalon/Escena 4P.unity
     guid: f867a007618fcd74c8a2bdba43e53aca
@@ -54,9 +54,66 @@ EditorBuildSettings:
     path: Assets/Scenes/Ir con novia/Pantalon/Escena 9P.unity
     guid: ea27f8d525b6aaa47b8a4090c7ee9c1b
   - enabled: 1
-    path: Assets/Scenes/Ir con novia/Pantalon/Insistir/Escena 11P.unity
-    guid: 7dd0613475812be458380cd1b0c01eef
+    path: Assets/Scenes/Ir con novia/Pantalon/Insistir/Escena 10P1 1.unity
+    guid: 64a3195d792f04541b61748292f50c69
   - enabled: 1
     path: Assets/Scenes/Ir con novia/Pantalon/Calmarse/Escena 10P2.unity
     guid: 308d2ba6e9e94e84d93ccbb8cd70b9cd
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Pantalon/Insistir/Escena 11P1.unity
+    guid: 71c3d86591020294cb9c608968fc1943
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Pantalon/Insistir/Vape/Escena 12P1.unity
+    guid: efd4b21709576974f88e394b6181d28b
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Pantalon/Insistir/No Vape/Escena 12P2.unity
+    guid: 649573b1727392f4db436fc2a1217d0f
+  - enabled: 1
+    path: Assets/Scenes/Finales/Neutral Ed.unity
+    guid: eee16991125ef85409cc2629adddd1e8
+  - enabled: 1
+    path: Assets/Scenes/Finales/Good Ed.unity
+    guid: b05da59d3c974d84ba68b01934db77e3
+  - enabled: 1
+    path: Assets/Scenes/Finales/Bad Ed.unity
+    guid: 923d098fa4a277b4cace046c8ebbf1db
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 4V.unity
+    guid: 67b05ac7a63f9ce45acfd6c4f8687e23
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 4V1.unity
+    guid: c4c4c3dafe7963245a9cf61a23f762a4
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 4v2.unity
+    guid: e968df73e3119cb409cf86810f3d450d
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 5V.unity
+    guid: a72eb494d78cebf498ab48e781d52542
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 6V.unity
+    guid: 20dc90a17ec7e104da0375761028f1f9
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 7V1.unity
+    guid: 7b986621ccaec2949a3d93e54e1805fb
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 7V2.unity
+    guid: 5fbfa3a5d5a974c46b9ea733ab2b96f8
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Escena 9V.unity
+    guid: a8deae9d854e69d4096977e521147184
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Calmarse/Escena 10V2.unity
+    guid: 754a24905b45d6e42927b1c8f4c8bf98
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Insistir/Escena 10V1 1.unity
+    guid: 2bca5d6d59d27864fb1ebbeff74dee57
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Insistir/Escena 11V1.unity
+    guid: 8a29ae05bc11944499c93b6a5eba7ff8
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Insistir/Vape/Escena 12V1.unity
+    guid: 0c2f54057e662944192ab9a4f1e98088
+  - enabled: 1
+    path: Assets/Scenes/Ir con novia/Vestido/Insistir/No Vape/Escena 12V2.unity
+    guid: 3aa08bd812d4d994680422bfb9711518
   m_configObjects: {}
