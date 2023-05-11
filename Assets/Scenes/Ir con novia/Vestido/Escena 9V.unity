@@ -588,7 +588,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4146839611640628432, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
       propertyPath: m_Name
-      value: Personaje(Hortensia)
+      value: Personaje(Alberto)
       objectReference: {fileID: 0}
     - target: {fileID: 4146839611640628432, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
       propertyPath: m_IsActive
@@ -664,11 +664,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4146839611640628433, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -662
+      value: -233
       objectReference: {fileID: 0}
     - target: {fileID: 4146839611640628433, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -76
+      value: -223
       objectReference: {fileID: 0}
     - target: {fileID: 4146839611640628433, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -685,7 +685,7 @@ PrefabInstance:
     - target: {fileID: 4146839611640628434, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 54b23aab0f4b9ff438a81ad7d717c393, type: 3}
+      objectReference: {fileID: 21300000, guid: cc587ae7b9601ce47b8376b3c23d70df, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62eacc73631200244b0dde4ecafa3ce6, type: 3}
 --- !u!224 &786909143 stripped
@@ -1037,7 +1037,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6320380895299778262, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -127
+      value: -27
       objectReference: {fileID: 0}
     - target: {fileID: 6320380895299778262, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -1908,7 +1908,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2038421872961103944, guid: 67c424423534314489244ac9a7bdbfeb, type: 3}
       propertyPath: m_Name
-      value: Personaje(AnaSofi)
+      value: Personaje(Ernesto)
       objectReference: {fileID: 0}
     - target: {fileID: 2038421872961103944, guid: 67c424423534314489244ac9a7bdbfeb, type: 3}
       propertyPath: m_IsActive
@@ -1917,7 +1917,7 @@ PrefabInstance:
     - target: {fileID: 2038421872961103950, guid: 67c424423534314489244ac9a7bdbfeb, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 9d37d1f4798f5a5419d2fb0da031cdb1, type: 3}
+      objectReference: {fileID: 21300000, guid: f28dd2e843d5a6f4397ed2ac468f94e2, type: 3}
     - target: {fileID: 2038421872961103951, guid: 67c424423534314489244ac9a7bdbfeb, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1984,7 +1984,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2038421872961103951, guid: 67c424423534314489244ac9a7bdbfeb, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 620
+      value: 176
       objectReference: {fileID: 0}
     - target: {fileID: 2038421872961103951, guid: 67c424423534314489244ac9a7bdbfeb, type: 3}
       propertyPath: m_AnchoredPosition.y
