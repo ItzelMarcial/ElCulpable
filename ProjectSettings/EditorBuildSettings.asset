@@ -143,4 +143,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ir con amigos/Pantalon/Escene A7P.unity
     guid: 0b48242deedef5b4db030eb0ed9cd72e
+  - enabled: 1
+    path: Assets/Scenes/Ir con amigos/Vestido/Escene A4V.unity
+    guid: 677710a0d07a2e645bfcf1ebb3acbf6f
+  - enabled: 1
+    path: Assets/Scenes/Ir con amigos/Vestido/Escene A4V1.unity
+    guid: d0f5d6ec02dab0a4ebd81821ae897cba
+  - enabled: 1
+    path: Assets/Scenes/Ir con amigos/Vestido/Escene A4V2.unity
+    guid: 4d095462686d81e4f91637c768ff1b92
+  - enabled: 1
+    path: Assets/Scenes/Ir con amigos/Vestido/Escene A5V.unity
+    guid: e05f658ce8744804799214feafbf0869
+  - enabled: 1
+    path: Assets/Scenes/Ir con amigos/Vestido/Escene A6V.unity
+    guid: 22db145e8de6be945bc65e430a6c9f47
+  - enabled: 1
+    path: Assets/Scenes/Ir con amigos/Vestido/Escene A7V.unity
+    guid: 7be7e8f90f8df414dbfd3cde1c6e425c
   m_configObjects: {}
