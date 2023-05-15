@@ -503,7 +503,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2068532672409635170, guid: ae3049b4437184b4daa27ac6ea241a48, type: 3}
       propertyPath: m_RootOrder
-      value: 6
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 2068532672409635170, guid: ae3049b4437184b4daa27ac6ea241a48, type: 3}
       propertyPath: m_AnchorMax.x
@@ -930,7 +930,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6606222cc5d1d5447ab16dd4789af61c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2e35d9210598ec44b81c3da553354aa3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1130,7 +1130,7 @@ PrefabInstance:
     - target: {fileID: 6320380895299778263, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 88275e2bed04b57438495d437e01276b, type: 3}
+      objectReference: {fileID: 21300000, guid: 213ab4b623760dd4884ea19b20d2487b, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a04c0ed7d00fd4247a773f6813d86e92, type: 3}
 --- !u!224 &1274864214 stripped
@@ -2080,8 +2080,8 @@ RectTransform:
   - {fileID: 786909143}
   - {fileID: 1322378927}
   - {fileID: 382047063}
-  - {fileID: 876621974}
   - {fileID: 717140971}
+  - {fileID: 876621974}
   - {fileID: 114906517}
   - {fileID: 2070328360}
   - {fileID: 1791006411}
