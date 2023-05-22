@@ -1,3 +1,4 @@
-JUAN: AY, NO IMPORTA. MIRA, PARA QUE SE TE PASE.
-JUAN: NO QUIERES FUMAR UN POQUITO?
-Juan te ofrece un papel enrollado acercandolo a tu rostro con insistencia.
+JUAN: Ay, no importa, mira, para que se te pase
+...
+JUAN: ¿No quieres fumar un poquito?
+Juan te ofrece un papel enrollado acercándolo a tu rostro con insistencia.
