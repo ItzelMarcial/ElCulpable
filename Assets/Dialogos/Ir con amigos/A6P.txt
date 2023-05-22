@@ -1,17 +1,18 @@
-Entras buscando a tus amigos, ellos desde el fondo te saludan desdeuna mesa, vas hacía ellos.
+Entras buscando a tus amigos, ellos desde una mesa del fondo te saludan.
+Vas hacia ellos.
 *Sonido de música de fiesta*
-*Murmullos de gente que esta en la fiesta*
-ALEX: Que onda, Que cuentan?
-JUAN: Hey, Donde anda tu dueña?, porque tu sin permiso no sales.
-ALBERTO: Oye, no tienes buena cara estas bien?
+*Murmullos de gente que está en la fiesta*
+ALEX: ¿Qué onda? ¿Qué cuentan?
+JUAN: ¡Hey! ¿Dónde anda tu dueña? Porque tú sin permiso no sales.
+ALBERTO: Oye, no tienes buena cara... ¿estás bien?
 JUAN: Lo que necesitas es una buena botella y un par de chicas para que se te olvide.
-ALBERTO: Pues unas cheves no te harian mal, jalas o que?
-ERNESTO: Ay andale, estamos en una fiesta no en un velorio.
-Aceptas, tomas una botella de cerveza
-JUAN: Bueno ya que andamos en el tema, la verdad es que tu novia nunca me cayo bien.
+ALBERTO: Pues unas cheves no te harían mal, ¿jalas o qué?
+ERNESTO: ¡Ándale! Estamos en una fiesta no en un velorio.
+Aceptas, tomas una botella de cerveza.
+JUAN: Bueno, ya que andamos en el tema, la verdad es que tu novia nunca me cayó bien.
 ERNESTO: Sí, creo que a veces se pasa de tóxica, no te deja ni salir a la esquina sin traerte bien vigilado.
-ALEX: Bueno ya, si vine con ustedes es para tener un poco de tranquilidad, Que no se puede?
-Tu grupo de amigos se miran entre ellos y solo suspiran.
-ALBERTO: Bueno ya, está bien, cambiemos el tema
-JUAN: Si, mejor hablemos de esa cosa que traes puesta, De donde sacaste eso? 
+ALEX: Bueno ya, si vine con ustedes es para tener un poco de tranquilidad, ¿qué no se puede?
+Tu grupo de amigos se miran entre ellos y sólo suspiran.
+ALBERTO: Bueno ya, está bien, cambiemos de tema.
+JUAN: Sí, mejor hablemos de esa cosa que traes puesta, ¿de dónde sacaste eso? 
 Miras indignado a Juan.
